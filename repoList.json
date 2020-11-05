@@ -1,0 +1,12 @@
+[
+    {
+        "user": "nathPay",
+        "repo": "DappNode-Package-nextcloud-linuxserver",
+        "branch": "main"
+    },
+    {
+        "user": "nathPay",
+        "repo": "DAppNodePackage-bitwarden",
+        "branch": "master"
+    }
+]
