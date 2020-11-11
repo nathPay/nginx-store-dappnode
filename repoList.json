@@ -8,5 +8,10 @@
         "user": "nathPay",
         "repo": "DAppNodePackage-bitwarden",
         "branch": "master"
+    },
+    {
+        "user": "nathPay",
+        "repo": "DappNode-package-onlyOffice",
+        "branch": "main"
     }
 ]
